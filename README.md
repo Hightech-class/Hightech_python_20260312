@@ -22,10 +22,16 @@ AI class contents
     *** 파이썬에서는 들여쓰기로 코드의 블록을 정의함
     *** 일반적으로 4칸을 띄움(tab 키 사용)
 ** 주석(comments)
-    *** 해쉬(hash) 기호 #으로 구성(''' 또는 """ 기호로 다중 주석 처리)
+    *** 해쉬(hash) 기호 #으로 구성(''' 또는 """ 기호로 다중 주석 처리)(* 큰따옴표로 많이 처리함)
 => (수업내용에 나왔던 프로그래밍 코드말고 조금씩 바꿔보면서 작성해보기)  
 
 * Docstrings(documentation strings) in python
  => 함수(function),방법(method),클래스(class),모듈(module)의 정의 이후에 사용하는 문자열 리터럴(literals)
 __doc__속성(attribute)으로 객체와 연결됨
+
+* 파이썬 변수(Python variables)
+  ex)   a           =           10
+      변수명    대입연산자     리터널
+  
+
                                          
