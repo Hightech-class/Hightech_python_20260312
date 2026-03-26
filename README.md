@@ -56,3 +56,9 @@
 * 모듈에서 선언되고 할당
    ** 모듈 : import해서 가져온 함수나 변수등이 포함된 새 파일
 * 상수는 대문자, 언더바(_)기호의 조합으로 작성
+
+### 6. 리터럴(Literal)
+* 변수 또는 상수에 대입하면 원시데이터(raw data)
+** Numeric(int, float, complex)
+** String
+** Boolean(true,false)  
