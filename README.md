@@ -1,5 +1,5 @@
 # This repository composition
-
+* 본 문서 (README) : (필기) 파이썬의 주요 특징 및 식별자 유의사항 이론 정리
 * [Identation.py](./Identation.py) : 들여쓰기 기본 원리와 반복문(for), 조건문(if), 탈출(break) 실습 코드 포함.
 ---
 # (관리방법1)
