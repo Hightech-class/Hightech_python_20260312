@@ -1,10 +1,8 @@
 # 1. 첫 번째 실습: if문 들여쓰기
 def practice_if_indent():
     print("들여쓰기가 잘됐나 확인하기")
-    if False:
-        print("들여쓰기가 잘된거 확인했음") 
-    else:
-        print("이 부분도 들여쓰기가 중요함")
+    print("들여쓰기가 잘된거 확인했음") 
+    print("이 부분도 들여쓰기가 중요함")
 practice_if_indent()
 
 
