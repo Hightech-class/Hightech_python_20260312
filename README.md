@@ -61,4 +61,5 @@
 * 변수 또는 상수에 대입하면 원시데이터(raw data)
 ** Numeric(int, float, complex)
 ** String
-** Boolean(true,false)  
+** Boolean(true,false)
+* 리터럴 모음(list,tuple,dict,set)    
