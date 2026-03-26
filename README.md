@@ -1,10 +1,14 @@
-# 🐍 Hightech_python_20260311
-**Python class contents**
+# This repository composition
 
+* [Indentation.py](./[Indentation.py](https://github.com/Hightech-class/Hightech_python_20260312/blob/main/Identation.py)) : 들여쓰기 기본 원리와 반복문(for), 조건문(if), 탈출(break) 실습 코드 포함.
 ---
 # (관리방법1)
 ## 4칸 들여쓰기 권장
 ## Ctrl + / (주석 단축키) : 특정내용 on / off
+
+---
+# 🐍 Hightech_python_20260311
+## Python class contents
 ---
 
 ### 1. 파이썬 주요 특징
