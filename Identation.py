@@ -1,4 +1,4 @@
-# 파이썬 들여쓰기 실습
+# 파이썬 들여쓰기(Identation)
 def check_indentation():
     if True:
         print("들여쓰기가 잘 되었습니다.") # 4칸 들여쓰기 권장
