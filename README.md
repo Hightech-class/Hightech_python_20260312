@@ -62,4 +62,4 @@
 ** Numeric(int, float, complex)
 ** String
 ** Boolean(true,false)
-* 리터럴 모음(list,tuple,dict,set)    
+* **리터럴 모음(list,tuple,dict,set)**    
