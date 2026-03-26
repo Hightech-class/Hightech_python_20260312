@@ -1,8 +1,18 @@
-# 파이썬 들여쓰기(Identation)
-def check_indentation():
-    if True:
-        print("들여쓰기가 잘 되었습니다.") # 4칸 들여쓰기 권장
-    else:
-        print("이 부분도 들여쓰기가 중요합니다.")
+ # 1. 첫 번째 실습: if문 들여쓰기
+ def practice_if_indent():
+     print("--- 실습 1 시작 ---")
+     if True:
+         print("들여쓰기가 잘 되었습니다.") # 4칸 들여쓰기 권장
+     else:
+         print("이 부분도 들여쓰기가 중요합니다.")
 
-check_indentation()
+# # 2. 두 번째 실습: for문과 break
+# def practice_for_break():
+#     print("\n--- 실습 2 시작 ---")
+#     for i in range(1, 11):
+#         print(i)
+#         if i == 5:
+#             break
+
+--------------------------------------------------------
+# Ctrl + / (주석 단축키) : on / off
