@@ -49,23 +49,23 @@
 
 ### 4. 변수(variables)
 * 메모리에 데이터를 저장하기 위해 사용되는 지정된 위치
-* 변수에 데이터/값을 할당하기 위해선 = 기호 사용함
-   ** 파이썬은 변수 유형을 명시적으로 정의할 필요x
+* 변수에 데이터/값을 할당하기 위해선 `=` 기호 사용함
+    ** 파이썬은 변수 유형을 명시적으로 정의할 필요x
 
 ### 5. 상수(constants)
 * 모듈에서 선언되고 할당
-   ** 모듈 : import해서 가져온 함수나 변수등이 포함된 새 파일
-* 상수는 대문자, 언더바(_)기호의 조합으로 작성
+    ** 모듈 : import해서 가져온 함수나 변수등이 포함된 새 파일
+* 상수는 대문자, 언더바(`_`)기호의 조합으로 작성
 
 ### 6. 리터럴(Literal)
 * 변수 또는 상수에 대입하면 원시데이터(raw data)
-** Numeric(int, float, complex)
-** String
-** Boolean(true,false)
-* **리터럴 모음(list,tuple,dict,set)**    
+    ** Numeric(int, float, complex)
+    ** String
+    ** Boolean(true,false)
+* **리터럴 모음(list,tuple,dict,set)**
 
 ### 7. 파이썬 데이터 유형
 * 파이썬에선 프로그래밍의 모든건 객체이고, 이들은 데이터 유형을 가짐
-  ** 데이터형은 실제로는 클래스(class), 변수(variable)는 클래스의 인스턴스(객체(object))
+    ** 데이터형은 실제로는 클래스(class), 변수(variable)는 클래스의 인스턴스(객체(object))
 * **종류(number, string, bool, list, tuple, set, dictionary)**
   
