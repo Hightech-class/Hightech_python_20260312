@@ -16,5 +16,5 @@ def practice_for_break():
 # practice_for_break()    
 
 # [실행 구역] - 맨 밑에서 보고 싶은 것만 주석(#)을 풀어서 실행
-# practice_if_indent()  # 지금은 안 봐도 되면 주석 처리
-# practice_for_break()    # 이것만 실행결과가 뜸!
+# practice_if_indent()
+# practice_for_break()   
