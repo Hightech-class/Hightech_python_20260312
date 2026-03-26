@@ -5,6 +5,8 @@ def practice_if_indent():
         print("들여쓰기가 잘된거 확인했음") 
     else:
         print("이 부분도 들여쓰기가 중요함")
+practice_if_indent()
+
 
 # 2. 두 번째 실습: for문과 break
 def practice_for_break():
@@ -13,7 +15,7 @@ def practice_for_break():
         print(i)
         if i == 5:
             break
-    
+practice_for_break()    
 
 # --------------------------------------------------------
 # [실행 구역] 
