@@ -63,3 +63,9 @@
 ** String
 ** Boolean(true,false)
 * **리터럴 모음(list,tuple,dict,set)**    
+
+### 7. 파이썬 데이터 유형
+* 파이썬에선 프로그래밍의 모든건 객체이고, 이들은 데이터 유형을 가짐
+  ** 데이터형은 실제로는 클래스(class), 변수(variable)는 클래스의 인스턴스(객체(object))
+* 종류(number, string, bool, list, tuple, set, dictionary)
+  
