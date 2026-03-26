@@ -1,6 +1,6 @@
 # This repository composition
 
-* [Identation.py](./[Identation.py](https://github.com/Hightech-class/Hightech_python_20260312/blob/main/Identation.py)) : 들여쓰기 기본 원리와 반복문(for), 조건문(if), 탈출(break) 실습 코드 포함.
+* [Identation.py](./Identation.py) : 들여쓰기 기본 원리와 반복문(for), 조건문(if), 탈출(break) 실습 코드 포함.
 ---
 # (관리방법1)
 ## 4칸 들여쓰기 권장
